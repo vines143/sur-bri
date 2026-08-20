@@ -81,6 +81,7 @@ export default function FinalSurprise() {
   <br />
   <strong>Happy Birthday once again, Surabhi! 🥳❤️</strong>
 </p>
+</motion.div>
       )}
     </div>
   );
