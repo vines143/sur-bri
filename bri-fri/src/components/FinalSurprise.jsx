@@ -44,61 +44,43 @@ export default function FinalSurprise() {
     <span>💝</span>
   </div>
 
-<h1>🎉 Happy Birthday Akka! ❤️</h1>
+<h1>🎉 Happy Birthday, Surabhi! ❤️</h1>
 
 <p>
-  Joog joog jiyoo aur hamesha khushh raaho,
-  <br />
-  abaad raho!! 🤗
+  Today is all about celebrating the wonderful person you are! 🥳
   <br />
   <br />
-  You are the one I shared everything with
+  I hope your special day is filled with happiness, laughter,
   <br />
-  without any hesitation.
-  <br />
-  You taught me like my own sister.
+  love, and lots of beautiful moments to remember. ❤️
   <br />
   <br />
-  Thank you so much for all
+  May your life always be filled with happiness, peace, success,
   <br />
-  the wonderful memories with me!!! ❤️
+  and everything your heart wishes for.
   <br />
+  May every dream you have come true,
   <br />
-  Mile jabhi bahen se,
-  <br />
-  bhool jaunga saara zamana,
-  <br />
-  abaad rahe meri bahen
-  <br />
-  aur abaad rahe uska gharana!! 🥰
+  and may you always have countless reasons to smile. ✨
   <br />
   <br />
-  Fursat nahi hai, waqt nahi hai
+  Thank you for being such a wonderful friend
   <br />
-  ke aake manaoon bahen ka salgirana,
-  <br />
-  lekin jab bhi aaun milne tujhse,
-  <br />
-  wo din bane mere liye
-  <br />
-  Dilwali Dussehra jaisa tyohaar haan!! ❤️
+  and for all the amazing memories we've shared. 🥰
   <br />
   <br />
-  Once again, wishing you
+  Keep shining, keep smiling,
   <br />
-  many many happy returns of the day! 🎉🎂🎈🥳🥁
-  <br />
-  <br />
-  Happy Birthday Akka! 🥳🥰🥰🥰❤️
+  and always stay the amazing person you are. ❤️
   <br />
   <br />
-  Stay happy, stay blessed
+  Wishing you a beautiful birthday
   <br />
-  and keep smiling forever! ❤️
+  and a fantastic year ahead! 🎂🎉💐✨
+  <br />
+  <br />
+  <strong>Happy Birthday once again, Surabhi! 🥳❤️</strong>
 </p>
-
-  <h2>Best Wishes 💕</h2>
-</motion.div>
       )}
     </div>
   );
