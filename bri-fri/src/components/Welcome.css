@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.welcome-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url("https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1600&q=80");
+
+  background-size: cover;
+  background-position: center;
+}
+
+.welcome-card {
+  width: 90%;
+  max-width: 600px;
+
+  text-align: center;
+
+  background: rgba(255,255,255,0.15);
+
+  backdrop-filter: blur(15px);
+
+  padding: 50px;
+
+  border-radius: 25px;
+
+  color: white;
+
+  box-shadow: 0 15px 40px rgba(0,0,0,.3);
+}
+
+.welcome-card h1{
+  font-size:3rem;
+  margin-bottom:20px;
+}
+
+.welcome-card h2{
+  font-size:2rem;
+  margin-bottom:20px;
+}
+
+.welcome-card span{
+  color:#ffb3d9;
+}
+
+.welcome-card p{
+  font-size:1.2rem;
+  line-height:1.8;
+  margin-bottom:35px;
+}
+
+.start-btn{
+
+  padding:15px 40px;
+
+  font-size:18px;
+
+  border:none;
+
+  border-radius:50px;
+
+  cursor:pointer;
+
+  background:#ff4d94;
+
+  color:white;
+
+  transition:.3s;
+}
+
+.start-btn:hover{
+
+  background:#ff0066;
+
+  box-shadow:0 0 20px #ff4d94;
+}

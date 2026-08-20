@@ -1,0 +1,91 @@
+.letter-page{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#ff9a9e,#fad0c4);
+}
+
+/* Envelope */
+
+.envelope{
+    width:320px;
+    height:220px;
+    position:relative;
+    cursor:pointer;
+}
+
+.body{
+    position:absolute;
+    width:100%;
+    height:100%;
+    background:#fff;
+    border-radius:8px;
+}
+
+.flap{
+    position:absolute;
+    width:100%;
+    height:110px;
+    background:#ff5e94;
+    clip-path:polygon(0 0,100% 0,50% 100%);
+    z-index:2;
+}
+
+.envelope p{
+    position:absolute;
+    width:100%;
+    text-align:center;
+    bottom:20px;
+    font-size:22px;
+    color:#ff2f75;
+    font-weight:bold;
+    z-index:3;
+}
+
+/* Letter */
+
+.letter-card{
+    width:80%;
+    max-width:700px;
+
+    background:white;
+
+    padding:40px;
+
+    border-radius:20px;
+
+    box-shadow:0 15px 30px rgba(0,0,0,.2);
+}
+
+.letter-card pre{
+
+    white-space:pre-wrap;
+
+    font-size:20px;
+
+    line-height:1.8;
+
+    color:#444;
+
+    font-family:'Segoe UI',sans-serif;
+}
+
+.letter-card button{
+
+    margin-top:30px;
+
+    padding:15px 40px;
+
+    border:none;
+
+    border-radius:40px;
+
+    background:#ff4d88;
+
+    color:white;
+
+    font-size:18px;
+
+    cursor:pointer;
+}
